@@ -45,4 +45,4 @@ function updateNewAdvice(id, advice) {
 }
 
 // show new advice on page load finish
-// fetchNewAdvice();
+fetchNewAdvice();
