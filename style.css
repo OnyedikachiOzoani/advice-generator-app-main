@@ -68,6 +68,7 @@ body {
 	transform: translate(-50%, 50%);
 	cursor: pointer;
 	transition: all 0.1s ease-in-out;
+	-webkit-tap-highlight-color: transparent;
 }
 
 .new-advice-btn:active {
